@@ -1,0 +1,5 @@
+I -> Project idea
+B -> Building
+H -> How program works
+C -> Concept
+S -> Stretching
